@@ -7,6 +7,6 @@ I specialize in creating "Force Multipliers"—internal tools and systems design
 
 **_"I like to build things that are maintainable and built to last."_**
 
-* [Miguel Hatrick on Gitlab](https://gitlab.com/miguelhatrick){:target="_blank"}
-* [Portfolio](https://portfolio.dacosys.com/){:target="_blank"}
-* [LinkedIn](https://www.linkedin.com/in/miguel-hatrick-57ba5739/){:target="_blank"}
+* [Miguel Hatrick on Gitlab](https://gitlab.com/miguelhatrick)
+* [Portfolio](https://portfolio.dacosys.com/)
+* [LinkedIn](https://www.linkedin.com/in/miguel-hatrick-57ba5739/)
